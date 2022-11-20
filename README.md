@@ -1,2 +1,2 @@
-# BIGDATAAIHUB
-Case competition of team 16
+### BIG DATA AI HUB COMPETITION
+#### Team 16
